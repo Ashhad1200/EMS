@@ -12,7 +12,7 @@ Additionally, it leverages **React Query** to manage server state efficiently an
 
 ## Features
 - User authentication and authorization.
-- CRUD operations for [your key entities, e.g., posts, users].
+- CRUD operations.
 - Efficient server-state management using React Query.
 - Responsive design with React.
 - RESTful APIs for seamless client-server communication.
